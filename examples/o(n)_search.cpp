@@ -19,3 +19,5 @@ int main() {
 
     return 0;
 }
+
+// g++ -o lsearch (o)n_search.cpp ../spiderman.cpp -lcurl

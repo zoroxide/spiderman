@@ -19,3 +19,5 @@ int main() {
 
     return 0;
 }
+
+// g++ -o basic basic.cpp ../spiderman.cpp -lcurl
