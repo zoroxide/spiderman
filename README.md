@@ -83,7 +83,7 @@ struct Token {
 
 To compile the example:
 ```bash
-g++ -std=c++17 -lcurl -o example examples/{file_name}.cpp spiderman.cpp
+g++ examples/{example}.cpp spiderman.cpp -o example -lcurl
 sudo ./example
 ```
 
