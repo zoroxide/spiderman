@@ -14,10 +14,11 @@ Spiderman is a lightweight C++ framework for web scraping. It allows you to fetc
 - `libcurl`
 
 ## Installation
+### *Windows support and test are comming soon :)*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spiderman.git
+   git clone https://github.com/zoroxide/spiderman.git
    cd spiderman
    ```
 
@@ -82,7 +83,8 @@ struct Token {
 
 To compile the example:
 ```bash
-g++ -std=c++17 -lcurl -o spiderman example.cpp spiderman.cpp
+g++ -std=c++17 -lcurl -o example examples/{file_name}.cpp spiderman.cpp
+sudo ./example
 ```
 
 ## License

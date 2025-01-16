@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include "spiderman.hpp"
+#include "../spiderman.hpp"
 
 int main() {
     std::string url = "https://zoroxide.pages.dev";
