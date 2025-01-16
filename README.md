@@ -74,7 +74,7 @@ struct Token {
 ## File Structure
 
 ```
-├── example.cpp       # Example usage
+├── examples          # Examples
 ├── spiderman.hpp     # Header file
 ├── spiderman.cpp     # Implementation file
 ```
